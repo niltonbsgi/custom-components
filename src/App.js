@@ -1,6 +1,6 @@
 import React from 'react';
-import ButtonDropDown from './Component/button-dropdown';
-import InputDropDown from './Component/input-dropdown';
+import ButtonDropDown from './component/button-dropdown';
+import InputDropDown from './component/input-dropdown';
 
 const data = [
   {
